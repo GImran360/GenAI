@@ -1,5 +1,9 @@
 # GenAI
 
+<img width="598" height="363" alt="{182EAD7C-8812-4DC3-9DA4-815669933234}" src="https://github.com/user-attachments/assets/99af2551-ffd6-4ad3-afbe-5b8a8ea98ff2" />
+<img width="572" height="334" alt="{F1648CBE-B16A-497F-BE51-15D71999114E}" src="https://github.com/user-attachments/assets/714d7b12-ed0d-42ee-a962-37f7971c71c2" />
+<img width="569" height="340" alt="{3661F6AB-39EA-4DDA-9954-CF76069AB6B4}" src="https://github.com/user-attachments/assets/84aad24e-20bc-42c9-8cc5-885fa48400b1" />
+<img width="566" height="342" alt="{D94D6498-D97E-49EE-BBC1-6C3777C79EC8}" src="https://github.com/user-attachments/assets/1dc4e1b1-086e-4353-87b6-5a809cbeb361" />
 
 <img width="562" height="339" alt="{92F1991E-C6C1-4A87-A324-11DF334E8C05}" src="https://github.com/user-attachments/assets/12515632-727e-4911-8484-7f2011f723b4" />
 <img width="563" height="332" alt="{022F4D33-39DF-48D2-AFBB-0F8C87896516}" src="https://github.com/user-attachments/assets/5bbd3bf4-0ef3-44b7-8da0-d847d44e9764" />
