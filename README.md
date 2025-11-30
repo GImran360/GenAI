@@ -1,4 +1,12 @@
 # GenAI
+<img width="538" height="332" alt="{5206DBA7-DA3E-4A4A-B943-98148A792AFD}" src="https://github.com/user-attachments/assets/0ff5c44d-9ce3-465a-b493-ee8c18213b98" />
+<img width="568" height="333" alt="{D826021F-4C00-4EBA-B209-D232D8AB5827}" src="https://github.com/user-attachments/assets/7afa5dd3-315b-4b78-babf-4ef8d262da74" />
+<img width="552" height="339" alt="{43A94955-ED9B-46C5-A95D-7E1BC0744144}" src="https://github.com/user-attachments/assets/d796d796-1315-43dd-b3f0-d1f3f03998ea" />
+<img width="539" height="323" alt="{86F96D89-98D0-467B-ADAB-E861C8C088C4}" src="https://github.com/user-attachments/assets/ca5c8d46-830f-47b6-8d12-6045cc7e8136" />
+<img width="550" height="332" alt="{1C3B1549-2847-4EB0-A61D-3C5D20657F04}" src="https://github.com/user-attachments/assets/d153e3dc-5364-4e1e-94d6-225319e56ea1" />
+<img width="534" height="322" alt="{17595C05-1D8F-42C8-8F05-39023C063919}" src="https://github.com/user-attachments/assets/37bc0b03-4637-47ae-821c-0a63833f6105" />
+<img width="551" height="327" alt="{FE491528-F193-474D-AD5D-4DF150C39A28}" src="https://github.com/user-attachments/assets/8f078868-50b6-47ad-9999-930b9f9da05f" />
+<img width="558" height="351" alt="{3747ADC4-B180-4737-BB0C-EDCE329EAC2B}" src="https://github.com/user-attachments/assets/559864d0-9733-4a4e-9079-fa34d646ab97" />
 
 <img width="598" height="363" alt="{182EAD7C-8812-4DC3-9DA4-815669933234}" src="https://github.com/user-attachments/assets/99af2551-ffd6-4ad3-afbe-5b8a8ea98ff2" />
 <img width="572" height="334" alt="{F1648CBE-B16A-497F-BE51-15D71999114E}" src="https://github.com/user-attachments/assets/714d7b12-ed0d-42ee-a962-37f7971c71c2" />
